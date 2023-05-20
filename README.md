@@ -2,6 +2,7 @@
 - 👀 I’m interested in computer things
 - 🌱 I’m currently learning Artificial Intelligence e machine learning
 - 📫 francechicco15@gmail.com
+- My projects are in the francesco1501-uniProj organizzation
 
 <!---
 francesco1501/francesco1501 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
