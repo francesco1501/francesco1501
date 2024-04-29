@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @francesco1501
 - 👀 I’m interested in computer things
-- 🌱 I’m currently learning Artificial Intelligence e machine learning
+- 🌱 I’m currently learning Artificial Intelligence and machine learning
 - 📫 francechicco15@gmail.com
 - My projects are in the francesco1501-uniProj organizzation
 
